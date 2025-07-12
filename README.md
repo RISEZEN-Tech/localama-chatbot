@@ -1,5 +1,9 @@
 # 🧠 Deepseek R1 Chatbot with Ollama & Streamlit
-This project is a locally-hosted AI chatbot built using the Deepseek LLM R1 and powered by Ollama for model management and Streamlit for the frontend interface.
+This project is a locally-hosted AI chatbot built using the Deepseek LLM R1 and powered by Ollama for model management and Streamlit for the frontend interface. First of all download the relevant LLM from OLLAMA so you can use that LLM in your chatbot to generate responses.
+
+(Recommended for this code:  Deepseek LLM R1)
+
+Note: If you'll download the other LLM then also provide your downloaded LLM path to code.
 
 # 🚀 Features
 Runs entirely locally — no internet or API key required
