@@ -31,16 +31,13 @@ Make sure ollama is accessible from your terminal.
 
 # 2. Download Deepseek R1
 In your terminal, run:
-bash
-Copy
-Edit
+
 ollama run deepseek
 Ollama will automatically download and prepare the Deepseek R1 model.
 
 # 3. Clone this Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+Github Link: https://github.com/RISEZEN-Tech/localama-chatbot/tree/main
 
 # 4. Install Dependencies
 
