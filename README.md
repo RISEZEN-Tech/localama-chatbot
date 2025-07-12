@@ -19,6 +19,8 @@ Deepseek R1 LLM: Downloaded and loaded through Ollama
 
 Streamlit: Interactive web UI for chatbot interaction
 
+Langchain
+
 Python 3.9+
 
 # 📦 Setup Instructions
@@ -36,22 +38,16 @@ ollama run deepseek
 Ollama will automatically download and prepare the Deepseek R1 model.
 
 # 3. Clone this Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 # 4. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 
 # 5. Run the Chatbot
-bash
-Copy
-Edit
+
 streamlit run app.py
 The chatbot will open in your browser at http://localhost:8501.
 
